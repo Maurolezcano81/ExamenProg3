@@ -17,7 +17,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: var(--color-blanco);
+    background-color: var(--color-azul);
     font-family: 'Dosis';
 }
 
@@ -26,7 +26,7 @@ table{
     border-collapse: collapse;
     border-radius: 10px;
     color: var(--color-azul);
-    box-shadow: 0 5px 15px 0 rgba(0,0,0,.5);
+    box-shadow: 0 20px 30px 5px rgba(198, 217, 184, .8);
     background-color: var(--color-blanco);
 }
 
